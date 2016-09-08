@@ -1,4 +1,4 @@
-NAME = visanalyticskit/phusion
+NAME = visanalyticskit/vakserver_phusion
 VERSION = 0.9.18
 
 .PHONY: all build test tag_latest release ssh
